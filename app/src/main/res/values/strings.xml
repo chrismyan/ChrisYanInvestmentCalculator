@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">ChrisYanInvestmentCalculator</string>
     <string name="action_settings">Settings</string>
+    <string name="numPeriods_string"># of Periods</string>
+    <string name="percent_string">%</string>
+    <string name="ratePerPeriod_string">Rate per Period</string>
+    <string name="payment_string">Payment/Cash flow</string>
+    <string name="percent_sign_string">%</string>
+    <string name="button_calculate_string">Calculate</string>
 </resources>
